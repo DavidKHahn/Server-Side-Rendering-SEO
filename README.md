@@ -29,12 +29,12 @@
  - Requests to server
 
 
-#### Next.js
+#### Next.js: (Check out the documentation for more information: https://nextjs.org/docs)
 
  - Assists with less full page refresh for server side rendering using such features like Link (Note:
 With client side rendering you do not need to refresh the entire page but with server side rendering you do)
 
 **Helpful Links:**
 
-https://medium.com/@wilbo/server-side-vs-client-side-routing-71d710e9227f (Server-side vs Client-side Routing)
-
+- https://medium.com/@wilbo/server-side-vs-client-side-routing-71d710e9227f (Server-side vs Client-side Routing)
+- https://developers.google.com/search/docs/guides/javascript-seo-basics (Understand the JavaScript SEO basics)

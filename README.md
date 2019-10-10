@@ -1,6 +1,7 @@
 ### Server-Side-Rendering
 
-#### CSR (Client Side Rendering): A client-side route happens when the route is handled internally by the JavaScript that is loaded on the page
+#### CSR (Client Side Rendering): 
+A client-side route happens when the route is handled internally by the JavaScript that is loaded on the page
 
 **PROS**
 
@@ -13,7 +14,8 @@
  - Low SEO potential
  - Longer initial load
 
-#### SSR (Server Side Rendering): While browsing, the adjustment of a URL can make a lot of things happen. This will happen regularly by clicking on a link, which in turn will request a new page from the server. This is what we call a server-side route. A whole new document is served to the user.
+#### SSR (Server Side Rendering): 
+While browsing, the adjustment of a URL can make a lot of things happen. This will happen regularly by clicking on a link, which in turn will request a new page from the server. This is what we call a server-side route. A whole new document is served to the user.
 
 
 **PROS**
@@ -29,10 +31,11 @@
  - Requests to server
 
 
-#### Next.js: (Check out the documentation for more information: https://nextjs.org/docs)
+#### Next.js: 
+ - Assists with less full page refresh for server side rendering using such features like Link (Note: With client side rendering you do not need to refresh the entire page but with server side rendering you do)
+ 
+ >Check out the documentation for more information:  https://nextjs.org/docs
 
- - Assists with less full page refresh for server side rendering using such features like Link (Note:
-With client side rendering you do not need to refresh the entire page but with server side rendering you do)
 
 **Helpful Links:**
 
